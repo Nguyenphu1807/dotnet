@@ -1,0 +1,6 @@
+C:\Users\MyPC\source\repos\Practice_dotnet\Practice_dotnet\obj\Debug\netcoreapp3.1\Practice_dotnet.csprojAssemblyReference.cache
+C:\Users\MyPC\source\repos\Practice_dotnet\Practice_dotnet\obj\Debug\netcoreapp3.1\Practice_dotnet.AssemblyInfoInputs.cache
+C:\Users\MyPC\source\repos\Practice_dotnet\Practice_dotnet\obj\Debug\netcoreapp3.1\Practice_dotnet.AssemblyInfo.cs
+C:\Users\MyPC\source\repos\Practice_dotnet\Practice_dotnet\obj\Debug\netcoreapp3.1\Practice_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\Practice_dotnet\Practice_dotnet\obj\Debug\netcoreapp3.1\Practice_dotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MyPC\source\repos\Practice_dotnet\Practice_dotnet\obj\Debug\netcoreapp3.1\Practice_dotnet.RazorComponent.input.cache
